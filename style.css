@@ -85,6 +85,10 @@ section {
     min-width: 6vh;
 }
 
+.col img {
+    max-height: 6vh;
+}
+
 .colour-2{
     background-color: #ebeed2;
 }
